@@ -1,1 +1,1 @@
-This code lights up an LED (output) and sounds an alarm (output) based on water levels (input) to keep my plant happy. See .png for wiring schematic.
+This code lights up an LED (output) and sounds an alarm (output) based on water levels (input) to keep my plant happy. See .png for wiring schematic. Never made it to the final step of the project but instead of sounding an alarm the output could open a mechanical valve to replenish water levels from a reservoir.
